@@ -1,0 +1,8 @@
+```
+// This file is for logging errors.
+// You can customize this file to log errors in a way that suits your needs.
+// For example, you could log to a database, a remote server, or a different file.
+
+// Example error logging:
+console.error('Error:', error);
+```
